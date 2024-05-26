@@ -14,7 +14,7 @@ This project is in its final development stage.
 
 You can access the website using the following link: [jahicplasttest.000webhostapp.com](https://jahicplasttest.000webhostapp.com).
 
-## Test for Shop / Log in
+## Test for access to the shop / log in:
 
 - username: Test Korisnik 
 - password: test123
