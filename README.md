@@ -12,7 +12,7 @@ This project is in its final development stage.
 
 ## Access
 
-You can access the website using the following link: [jahicplasttest.000webhostapp.com](https://jahicplasttest.000webhostapp.com).
+You can access the website using the following link: [https://jahicplasttest.wuaze.com/index.php]
 
 ## Test for access to the shop-cart / log in:
 
